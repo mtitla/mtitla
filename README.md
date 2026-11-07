@@ -61,32 +61,5 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on GitHub: **[Mtitla](https://github.com/mtitla)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I use Arch Linux btw.<br>
 
-<div align="center">
-<a href="https://github.com/mtitla">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mtitla&show_icons=true&theme=nord" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtitla&layout=compact&theme=nord" width="32.5%">
-<img src="https://streak-stats.demolab.com?user=mtitla&theme=nord" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtitla&show_icons=true&include_all_commits=true&count_private=true&theme=nord">
-
-</details>
-
-<hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-<!--img src="https://github.com/mtitla/mtitla/blob/main/images/this_page_is.gif" width="40%"/-->
 
 </div>
