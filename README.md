@@ -1,8 +1,6 @@
  <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
-
+<img src="/home/mtitla/Downloads/IMG-20260819-WA0104.jpg" alt="Mtitla Logo" width="40%"/><br>
 <details>
 <p><strong><summary>Busy coding & Vibing to:</summary></strong></p>
 
@@ -59,7 +57,6 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux, Arch Linux & Operating System Internals**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Linux, Programming, System Internals & Computer Architecture**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on GitHub: **[Mtitla](https://github.com/mtitla)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I use Arch Linux btw.<br>
 
 
 </div>
