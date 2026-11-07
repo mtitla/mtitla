@@ -2,7 +2,6 @@
 
 </details>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmtitla&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![GitHub badge](https://img.shields.io/badge/Mtitla-grey?style=flat&logo=github)](https://github.com/mtitla) <br>
 </div>
 
